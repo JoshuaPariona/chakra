@@ -9,6 +9,7 @@
   "emails": [
     "joshiparsa@gmail.com"
   ],
+  "description": "Chakra is a smart irrigation IoT app that lets you remotely configure watering schedules, monitor sensors, and optimize water usage efficiently.",
   "scripts": {
     "start": "expo start",
     "android": "expo run:android",
