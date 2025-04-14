@@ -2,6 +2,13 @@
   "name": "chakra",
   "version": "1.0.0",
   "main": "index.ts",
+  "authors": [
+    "Joshua Pariona",
+    "Valery Delgado"
+  ],
+  "emails": [
+    "joshiparsa@gmail.com"
+  ],
   "scripts": {
     "start": "expo start",
     "android": "expo run:android",
